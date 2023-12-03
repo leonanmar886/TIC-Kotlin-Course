@@ -1,4 +1,4 @@
-fun main() {
+fun main2() {
     for (i in 1..10) {
         println(i)
     }
