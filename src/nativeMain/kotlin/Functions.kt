@@ -1,6 +1,6 @@
 data class Person(var name: String, var age: Int = 0, var city: String = "")
 
-fun main(){
+fun main4(){
     var str:String? = null
     str = "Hello"
 
