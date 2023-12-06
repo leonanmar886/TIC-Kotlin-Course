@@ -1,4 +1,4 @@
-fun main(){
+fun main3(){
     var str: String? = null
     println(str?.length)
     str = "Hello"
